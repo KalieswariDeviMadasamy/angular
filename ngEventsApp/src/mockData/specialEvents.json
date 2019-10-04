@@ -1,0 +1,14 @@
+{
+  "specialEvents" : [
+    {
+      "name":"Special Event 1",
+      "description":"My first special Event",
+      "date":"23/9/2019"
+    },
+    {
+      "name":"Special Event 2",
+      "description":"My second special Event",
+      "date":"24/9/2019"
+    }
+  ]
+}

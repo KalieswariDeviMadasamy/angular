@@ -1,0 +1,22 @@
+[
+    {
+      "name":"Event 1",
+      "description":"My first Event",
+      "date":"23/9/2019"
+    },
+    {
+      "name":"Event 2",
+      "description":"My second Event",
+      "date":"24/9/2019"
+    },
+    {
+      "name":"Event 3",
+      "description":"My third Event",
+      "date":"25/9/2019"
+    },
+    {
+      "name":"Event 4",
+      "description":"My fourth Event",
+      "date":"26/9/2019"
+    }
+]
